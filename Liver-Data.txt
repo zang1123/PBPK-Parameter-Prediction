@@ -1,0 +1,89 @@
+ExtFP45	ExtFP125	ExtFP172	ExtFP201	ExtFP239	ExtFP271	ExtFP277	ExtFP364	ExtFP396	ExtFP509	ExtFP648	ExtFP760	ExtFP910	ExtFP951	MACCSFP108	MACCSFP129	MACCSFP141	PubchemFP3	PubchemFP336	KRFP297	KRFP669	KRFP1156	KRFP2308	KRFP3649	AD2D393	LogLiver	Training/Test	Name
+0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	-1.52	Training	Ceftazidime
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.64	Training	Salicylic acid
+0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	1	0	1	1	-0.60	Training	Penicillin V
+1	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	1	-0.52	Training	Tolbutamide
+1	0	0	0	1	1	1	0	0	0	1	0	0	0	1	1	0	0	1	1	1	0	0	1	1	-0.43	Training	JNJ28/Sufentanil
+1	0	0	1	0	0	0	1	0	0	1	1	1	0	0	1	0	0	0	1	0	0	0	0	1	-0.41	Training	Ftorafur
+1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	1	1	0	0	0	1	-0.24	Training	Nalidixic acid
+1	0	1	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	1	0	1	0	1	-0.19	Training	Cotinine
+0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	1	-0.11	Training	Dideoxyinosine
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	1	-0.11	Training	Cefazolin
+0	0	1	0	0	1	0	1	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	1	-0.07	Training	Tenoxicam
+0	0	1	0	0	1	1	0	0	0	1	1	0	0	1	1	1	1	1	1	1	0	0	1	1	0.00	Training	Alfentanil
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	0.04	Training	5-ethyl-5-ethyl barbituric acid
+1	0	1	1	1	0	1	0	0	1	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	0.08	Training	Morphine
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.10	Training	5-propyl-5-ethyl barbituric acid
+0	0	0	0	1	0	0	1	0	0	1	1	1	0	0	1	0	0	0	1	0	0	0	0	1	0.14	Training	Ridogrel
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.24	Training	5-butyl-5-ethyl barbituric acid
+0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	0.26	Training	Phenobarbital
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0.26	Training	Valproic acid
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	0.31	Training	Ofloxacin
+0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0.36	Training	Phenytoin
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	1	1	0	0	0	1	0.36	Training	Thiopental
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	1	0.36	Training	Lomefloxacin
+1	0	0	1	1	0	1	0	0	1	1	1	0	0	0	1	0	0	0	1	1	0	0	0	1	0.40	Training	JNJ3/Galantamine
+0	0	0	1	1	0	0	0	1	1	0	1	1	0	0	1	0	0	0	1	0	0	0	0	1	0.41	Training	Ketanserin
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0.42	Training	Lidocaine
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.45	Training	5-heptyl-5-ethyl barbituric acid
+0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	0	0	0	1	1	0	0	0	1	0.51	Training	Enoxacin
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.56	Training	5-hexyl-5-ethyl barbituric acid
+1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0.57	Training	Triazolam
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	1	1	0.58	Training	Fentanyl
+0	0	0	1	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	0	0	1	0.65	Training	Sparfloxacin
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0.66	Training	Pipemedic acid
+0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	0.69	Training	Chlordiazepoxide
+0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0	1	0	1	0.70	Training	NJ6/Loperamide
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.71	Training	5-octyl-5-ethyl barbituric acid
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0.73	Training	Pefloxacin
+0	0	0	0	1	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	1	1	1	0	1	0.78	Training	Hexobarbital
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	0.86	Training	Pindolol-S
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0.89	Training	Diazepam
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0.91	Training	Phencyclidine
+0	1	1	0	0	0	0	0	1	1	0	0	0	0	0	1	1	0	1	1	1	1	0	0	1	0.92	Training	Timolol
+1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0.92	Training	Alprazolam
+0	0	0	1	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	1	1	0	0	0	0	0.94	Training	Midazolam
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.94	Training	JNJ13/Prucalopride
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	1.07	Training	Carvedilol-S
+1	1	0	0	1	0	0	1	0	0	0	0	0	1	1	1	0	0	0	1	1	0	0	0	1	1.09	Training	Risperidone
+0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	1.09	Training	Oxeprenolol-S
+1	0	0	1	0	0	0	0	1	0	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1.14	Training	JNJ1/Domperidone
+0	0	0	0	0	0	1	0	1	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	1.15	Training	Levocabastine
+1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	1.15	Training	JNJ2/Nebivolol
+0	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	1	1	0	1	1	0	1	1	1	1.17	Training	Cyclosporin
+0	1	0	0	0	1	1	0	0	0	0	0	0	0	1	1	1	1	0	1	1	1	0	0	1	1.18	Training	Digoxin
+1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	1	0	1	0	1	1	0	0	0	1	1.23	Training	JNJ18/Laniquidar
+1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	0	1.31	Training	Mazapertine
+1	0	0	0	1	0	0	0	0	0	0	1	0	1	1	1	1	0	0	1	1	0	0	0	1	1.36	Training	Bisoprolol-S
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	1.37	Training	Quinidine
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	1.40	Training	Acebutolol-S
+0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1.44	Training	JNJ15/Lubeluzole
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	1.47	Training	Propanolol-S
+1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	1	1.53	Training	Inaperisone
+0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1.58	Training	JNJ14/Sabeluzole
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	1.65	Training	Metoprolol-S
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	0	0	0	1	1.67	Training	FTY-720
+1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	2.03	Training	Betaxolol-S
+1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	0	0	0	2.27	Training	Imipramine
+0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	-0.60	Test	Ceftazidime
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	1	-0.24	Test	JNJ4/Lorcainide
+0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	1	-0.11	Test	"2,3-dideoxyinosine"
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	1	0	0	1	0.04	Test	5-methyl-5-ethyl barbituric acid
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.24	Test	5-pentyl-5-ethyl barbituric acid
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0.32	Test	Pyridostigmine
+1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.36	Test	Pentazocine
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	1	0.50	Test	Procainamide
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0.57	Test	Flunitrazepam
+0	0	0	0	0	1	1	1	0	0	0	1	1	1	1	0	1	0	0	1	1	1	0	0	1	0.67	Test	Tetracycline
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	1	0	0	0	1	0.70	Test	5-nonyl-5-ethyl barbituric acid
+1	0	1	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0.77	Test	Nicotine
+0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	0.93	Test	Oxeprenolol-R
+1	0	0	0	1	0	0	0	0	0	0	0	1	0	1	1	0	0	0	1	1	0	0	0	1	1.06	Test	Grepafloxacin
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1.12	Test	Propofol
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	1.16	Test	Pindolol-R
+0	0	0	0	0	1	1	0	0	0	1	1	0	0	1	1	0	0	0	1	1	0	0	0	1	1.23	Test	JNJ9/Cisapride
+1	0	0	0	1	0	0	0	0	0	0	1	0	1	1	1	1	0	0	1	1	0	0	0	1	1.36	Test	Bisoprolol-R
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	1.50	Test	Acebutolol-R
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	1.60	Test	Metoprolol-R
+1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	2.12	Test	Betaxolol-R
+0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	2.42	Test	Pethidine

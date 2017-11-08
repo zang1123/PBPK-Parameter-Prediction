@@ -1,0 +1,70 @@
+ExtFP72	ExtFP127	ExtFP144	ExtFP169	ExtFP292	ExtFP342	ExtFP376	ExtFP440	ExtFP479	ExtFP512	ExtFP781	ExtFP966	ExtFP978	ExtFP991	PubchemFP582	PubchemFP700	KRFP228	KRFP1407	AD2D391	AD2D564	LogGut	Training-Test	Names
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	-0.26	Training	5-ethyl-5-ethyl barbituric acid
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	-0.14	Training	5-propyl-5-ethyl barbituric acid
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.00	Training	5-butyl-5-ethyl barbituric acid
+1	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.14	Training	5-hexyl-5-ethyl barbituric acid
+1	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.12	Training	5-heptyl-5-ethyl barbituric acid
+1	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.18	Training	5-octyl-5-ethyl barbituric acid
+1	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	-0.85	Training	Cefazolin
+1	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	-0.39	Training	Ceftazidime
+1	1	1	1	0	0	1	1	0	0	1	0	0	0	1	0	0	1	1	0	0.18	Training	Hexobarbital
+1	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	0	0	1	0	-0.01	Training	Penicillin V
+1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0.26	Training	Phenobarbital
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0.24	Training	Phenytoin
+1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.11	Training	Thiopental
+0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	1.96	Training	Acebutolol-S
+0	0	1	0	1	1	0	0	0	0	1	0	1	0	1	0	0	0	1	0	-0.06	Training	Alfentanil
+1	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	1.58	Training	Betaxolol-S
+0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	1	0	1.08	Training	Biperiden
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	1	0	1.41	Training	Bisoprolol-S
+0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0.29	Training	Chlordiazepoxide
+0	1	0	1	0	0	0	1	0	0	1	0	1	0	1	0	0	0	1	0	0.84	Training	Cocaine
+1	0	0	1	0	0	0	1	0	0	1	0	0	1	1	0	0	0	1	0	-0.24	Training	Cotinine
+0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.71	Training	Diazepam
+1	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.91	Training	Fentanyl
+0	0	0	1	0	1	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0.57	Training	Flunitrazepam
+0	1	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	1	1	1.04	Training	Haliperidol
+1	0	1	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	1	0	1.45	Training	Imipramine
+1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0.35	Training	Lidocaine
+1	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1.05	Training	Metoprolol-S
+0	0	0	0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0.34	Training	Nitrazepam
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1.05	Training	Oxeprenolol-S
+0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.52	Training	Pentazocine
+0	0	0	1	1	0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	1.26	Training	Pindolol-S
+0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	1.37	Training	Propanolol-S
+1	0	0	1	1	0	1	1	0	1	1	0	1	1	1	1	0	0	1	0	1.24	Training	Quinidine
+0	0	0	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	1.08	Training	Triazolam
+0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0.78	Training	Cyclosporin
+0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0.77	Training	Digoxin
+0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	-0.27	Training	Ethoxybenzamide
+0	1	0	0	0	1	0	1	0	0	1	0	0	1	0	0	0	0	1	0	-0.44	Training	Ftorafur
+1	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	-1.30	Training	Ceftazidime
+0	0	0	1	1	0	0	1	0	1	1	0	0	0	1	0	0	0	1	0	-0.29	Training	"2,3-dideoxyinosine"
+0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.21	Training	Lomefloxacin
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0.99	Training	Sparfloxacin
+0	1	1	1	1	0	0	0	1	1	1	0	1	1	1	0	0	0	1	0	0.99	Training	Tetracycline
+0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	1.22	Training	Pethidine
+1	1	1	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	-0.77	Training	Tenoxicam
+1	1	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	-0.31	Training	Nalidixic acid
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	-0.23	Test	5-methyl-5-ethyl barbituric acid
+1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	-0.07	Test	5-pentyl-5-ethyl barbituric acid
+1	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.35	Test	5-nonyl-5-ethyl barbituric acid
+0	0	0	1	1	0	0	1	1	1	1	1	0	0	1	0	0	0	1	0	-0.29	Test	Dideoxyinosine
+0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	-0.43	Test	Salicylic acid
+1	0	0	0	1	0	0	0	0	1	1	0	0	0	1	0	0	0	1	0	-0.92	Test	Tolbutamide
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	-0.35	Test	Valproic acid
+0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	1.95	Test	Acebutolol-R
+1	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	1.60	Test	Betaxolol-R
+1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	1	0	1.42	Test	Bisoprolol-R
+0	0	1	0	0	0	1	1	1	0	1	0	0	0	1	0	0	0	1	1	1.04	Test	Chlorpromazine
+1	0	1	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	1	1	1.46	Test	Clomipramine
+1	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1.12	Test	Metoprolol-R
+0	0	0	1	1	0	1	1	0	0	1	0	0	0	1	0	0	0	1	0	0.56	Test	Midazolam
+1	0	1	0	0	1	1	0	0	1	1	0	0	1	1	0	0	0	1	0	0.08	Test	Morphine
+1	0	0	1	0	0	0	1	0	1	1	0	0	1	1	0	0	0	1	0	0.20	Test	Nicotine
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1.10	Test	Oxeprenolol-R
+0	0	0	1	1	0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	1.42	Test	Pindolol-R
+1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.32	Test	Pyridostigmine
+1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	1	0	1.30	Test	Timolol
+1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0.78	Test	Grepafloxacin
+0	0	0	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0.22	Test	Alprazolam
