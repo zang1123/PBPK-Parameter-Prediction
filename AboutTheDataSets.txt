@@ -1,0 +1,27 @@
+Henry’s Law Constant (HLC): 1356 training chemicals; 452 test chemicals. Optimal subset of fingerprints: 150. 
+
+Fraction unbound to plasma proteins (Fu): 1265 training chemicals; 273 test chemicals. Optimal subset of fingerprints: 500.
+
+Partition coefficients between plasma and gut: 47 training chemicals; 22 test chemicals. Optimal subset of fingerprints: 20.
+
+Partition coefficients between plasma and kidney: 68 training chemicals; 22 test chemicals. Optimal subset of fingerprints: 30.
+
+Partition coefficients between plasma and liver: 66 training chemicals; 22 test chemicals. Optimal subset of fingerprints: 25.
+
+Molecular fingerprints are employed as predictor variables with the presence of a fingerprint bits as 1 and the absence as 0. Procedure for generation of fingerprint bits for model building:
+
+[1] Convert chemical names to CASRN (Chemical Abstracts Service Registry Number):
+
+http://cts.fiehnlab.ucdavis.edu/conversion/batch
+
+[2] Convert CASRN to SMILES strings (Simplified Molecular-Input Line-Entry System) using ChemCell program:
+
+http://depth-first.com/articles/2010/11/01/chemcell-easily-convert-names-and-cas-numbers-to-chemical-structures-in-excel/
+
+[3] Convert SMILES strings to Fingerprints using PaDEL program:
+
+http://www.yapcwsoft.com/dd/padeldescriptor/
+
+[4] 8097 fingerprint bits are generated from PaDEL program. Genetic algorithm (GA) is used to select optimal subsets of fingerprint bits.
+
+http://pubs.acs.org/doi/abs/10.1021/acs.jcim.6b00625
